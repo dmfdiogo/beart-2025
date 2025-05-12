@@ -1,0 +1,13 @@
+.next/
+build/
+node_modules/
+public/
+generated/
+prisma/
+.github/
+.vercel/
+coverage/
+next-env.d.ts
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

@@ -1,5 +1,5 @@
-import Image from 'next/image';
-import loader from '@/assets/loader.gif';
+import Image from 'next/image'
+import loader from '@/assets/loader.gif'
 
 const Loading = () => {
   return (
@@ -12,9 +12,9 @@ const Loading = () => {
         width: '100vw',
       }}
     >
-      <Image src={loader} width={150} height={150} alt='Loading...' />
+      <Image src={loader} width={150} height={150} alt="Loading..." />
     </div>
-  );
-};
+  )
+}
 
-export default Loading;
+export default Loading
