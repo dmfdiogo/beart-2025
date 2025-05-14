@@ -25,6 +25,7 @@ generated/
 .DS_Store
 *.pem
 dif.txt
+.bkp-env.local
 
 # debug
 npm-debug.log*
